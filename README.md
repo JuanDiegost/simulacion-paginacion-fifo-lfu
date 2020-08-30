@@ -1,0 +1,1 @@
+# simulacion-paginacion-fifo-lfu
